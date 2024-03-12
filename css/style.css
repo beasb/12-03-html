@@ -82,3 +82,7 @@ color: rgb(255,0,0);
 .mixed-rgb{
     color: rgb(199,21,47);
 }
+
+.rgba{
+    color: rgb(255,0,0, 0.6);
+    }
