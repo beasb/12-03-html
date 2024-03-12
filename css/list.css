@@ -1,0 +1,9 @@
+/* 06 estilizando lista em css */
+
+ul {
+    border: solid 1px blue;
+    padding: 10px;
+}
+li{
+    color: darkblue;
+}

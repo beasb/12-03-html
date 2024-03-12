@@ -1,0 +1,46 @@
+
+/* p{
+    body {
+        background-color: antiquewhite;
+    }
+} */
+
+/* p{
+    color: blueviolet;
+    font-size: 80px;
+} */
+
+body{
+    padding-bottom: 500px;
+}
+
+/* Classes */
+
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+#exclusive-title{
+
+    background: purple;
+    color: beige;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* 10 Multiplas Regras */
+
+h2{
+    border-bottom: 2px dotted red;
+}
+
+.titulo{
+    border-bottom: 3px solid blue;
+
+}
+
+#algum-titulo{
+    border-bottom: 4px solid green;
+}
